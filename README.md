@@ -1,0 +1,3 @@
+This security update resolves vulnerabilities in Microsoft Windows. The most severe of the vulnerabilities could allow remote code execution if an attacker runs a specially crafted application that connects to an iSNS Server and then issues malicious requests to the server.
+This security update is rated Critical for Windows Server 2008, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2, Windows 10 Version 1607 and Windows Server 2016, and Important for Windows Vista, Windows 7, Windows 8.1, Windows RT 8.1, Windows 10, and Windows 10 Version 1511. For more information, see the Affected Software and Vulnerability Severity Ratings section.
+The security update addresses the vulnerabilities by:
